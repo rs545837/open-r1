@@ -1,3 +1,4 @@
+deepspeed
 accelerate
 wandb
 datasets
